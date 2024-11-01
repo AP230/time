@@ -1,7 +1,7 @@
 p.ex2 {
     font-size: 80px;
-    background-color:hwb(214 42% 23%) ;
-    color: #ff3bce;
+    background-color:#3be8ff ;
+    color: hwb(308 2% 0%);
   }
   .center {
     display: block;
@@ -9,4 +9,3 @@ p.ex2 {
     margin-right: auto;
     width: 50%;
   }
-  
